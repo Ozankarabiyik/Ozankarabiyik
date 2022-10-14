@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ozan karabiyik
+- 👋 Hi, I’m Ozan Karabiyik
 - 👀 I’m interested in Software Testing
 - 💬 Ask me about Java, Selenium, TestNG, Cucumber, MySql, Postman, JDBC, RestAssured
 
